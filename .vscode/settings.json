@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/baf9beb4-6bd1-432f-b6a5-8957f012afa5/resourceGroups/TEST-RESOURCE/providers/Microsoft.Web/sites/mynotes-app",
+    "appService.deploySubpath": "."
+}
